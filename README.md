@@ -18,7 +18,7 @@
 
 ```
 .
-├── main.py          # 主程序文件
+├── analysis.py          # 主程序文件
 └── README.md        # 项目说明文档
 ```
 
@@ -37,7 +37,7 @@ pip install yfinance pandas numpy matplotlib
 ### 🔧 使用方法
 
 #### 1. 修改参数
-在 `main.py` 文件中，可以自定义以下参数：
+在 `analysis.py` 文件中，可以自定义以下参数：
 
 ```python
 ticker = 'QQQ'                # 股票代码
